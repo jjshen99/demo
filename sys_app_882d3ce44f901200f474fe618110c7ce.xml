@@ -12,7 +12,7 @@
         <restrict_table_access>true</restrict_table_access>
         <runtime_access_tracking>permissive</runtime_access_tracking>
         <scope>x_snc_app_demojj</scope>
-        <short_description>jj - c2</short_description>
+        <short_description>jj - c23</short_description>
         <source>x_snc_app_demojj</source>
         <store_correlation_id/>
         <store_url/>
@@ -21,9 +21,9 @@
         <sys_created_by>jj</sys_created_by>
         <sys_created_on>2015-12-09 17:40:07</sys_created_on>
         <sys_id>882d3ce44f901200f474fe618110c7ce</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_updated_by>jianjun.shen@snc</sys_updated_by>
-        <sys_updated_on>2015-12-09 22:22:23</sys_updated_on>
+        <sys_updated_on>2015-12-09 22:23:25</sys_updated_on>
         <template/>
         <user_role display_value="">802dbce44f901200f474fe618110c7c9</user_role>
         <vendor/>
