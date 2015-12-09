@@ -2,7 +2,7 @@
 <record_update sys_domain="global" table="sys_ui_module">
     <sys_ui_module action="INSERT_OR_UPDATE">
         <active>true</active>
-        <application display_value="App_demoJJ">b82dbce44f901200f474fe618110c7e9</application>
+        <application display_value="">b82dbce44f901200f474fe618110c7e9</application>
         <filter/>
         <name>App_demoJJ Table</name>
         <order/>
@@ -12,7 +12,7 @@
         <sys_class_name>sys_ui_module</sys_class_name>
         <sys_created_by>jj</sys_created_by>
         <sys_created_on>2015-12-09 17:40:10</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>302dbce44f901200f474fe618110c7ea</sys_id>
